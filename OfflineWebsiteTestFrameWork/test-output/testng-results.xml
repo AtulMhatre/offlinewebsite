@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9706" started-at="2020-07-12T04:58:24Z" finished-at="2020-07-12T04:58:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9706" started-at="2020-07-12T04:58:24Z" finished-at="2020-07-12T04:58:34Z">
+      <class name="AddUserTest">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:AddUserTest@cc285f4]" name="OpenBrowser" is-config="true" duration-ms="9499" started-at="2020-07-12T10:28:24Z" finished-at="2020-07-12T10:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="checkDeleteButton()[pri:0, instance:AddUserTest@cc285f4]" name="checkDeleteButton" duration-ms="83" started-at="2020-07-12T10:28:34Z" finished-at="2020-07-12T10:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDeleteButton -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:AddUserTest@cc285f4]" name="CloseBrowser" is-config="true" duration-ms="92" started-at="2020-07-12T10:28:34Z" finished-at="2020-07-12T10:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- AddUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
